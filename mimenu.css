@@ -1,0 +1,42 @@
+navbar{
+
+     background: blueviolet;
+		  width: 100px blue solid;
+		 height: 100px;
+		 display: block;
+		 margin: 300;
+		margin: auto;
+		padding: 20px;
+        margin-top: 20px;
+		font-size: 2em;
+		border-block: 5px;
+	}
+
+li:hover{
+border: 5px red solid;	
+
+
+padding: 10px;
+}
+
+
+li{
+	background: orange;
+	
+	display: inline-block;
+	margin-top: 10px orange solid;
+border: 10px;
+padding: 10px;
+width: 250px;
+margin: auto;
+text-align: center;
+
+}
+a{
+
+	text-decoration: none;
+}
+
+
+
+}
